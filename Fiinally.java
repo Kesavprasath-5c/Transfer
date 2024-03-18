@@ -17,6 +17,7 @@ public class Fiinally {
 	}
 	finally {
 		 System.out.println("Finally printed");
+		 System.out.println("updating");
 	}
 	}
 	
